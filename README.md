@@ -1,4 +1,4 @@
-### Hi there 👋, Hey, This is Shakawat Hridoy
+### Hi there 👋, This is Shakawat Hridoy
 #### I am a Junior React Developer
 ![I am a Junior React Developer](https://github.githubassets.com/images/modules/open_graph/github-octocat.png)
 
