@@ -2,11 +2,11 @@
 #### I am a Junior React Developer
 ![I am a Junior React Developer](https://github.githubassets.com/images/modules/open_graph/github-octocat.png)
 
-Digital Marketer/Web Developer blogger looking for challenging problems to solve. My background is in enterprise web development, however, I have an insatiable curiosity for AI – particularly deep learning – applications and their potential to change the technology landscape.
+Digital Marketer/Web Developer/blogger looking for challenging problems to solve. My background is in enterprise web development, however, I have an insatiable curiosity for AI – particularly deep learning – applications and their potential to change the technology landscape.
 
-CONTACT ME: https://thecreativeassist.com/
+Agency: https://thecreativeassist.com/
 
-Skills: MONGODB / NODE JS / REACT / JS / HTML / CSS
+Skills: NODE JS / REACT / JS / HTML / CSS
 
  
 <h3 align="left">Connect with me:</h3>
